@@ -455,13 +455,8 @@ label[for="bqpDetails"] {
   gap: 2rem;
 }
 
-#bqp-details{
-  margin-top: 1rem;;
-}
-
 #bqp-details > .right-colomn {
   margin-bottom: 2rem;
-  margin-top: 2rem;
 }
 
 .form-label {
